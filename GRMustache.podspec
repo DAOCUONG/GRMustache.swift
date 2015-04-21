@@ -6,7 +6,7 @@
 		s.homepage = 'https://github.com/groue/GRMustache'
 	    s.author   = { 'Gwendal Roué' => 'gr@pierlis.com' }
 		s.source   = { :git => 'https://github.com/DAOCUONG/GRMustache.git', :tag => '1.2' }
-		s.source_files = 'Mustache/**/*.swift'
+		s.source_files = 'Mustache/**/*.{swift,h}'
 		s.private_header_files = 'Mustache/**/*.h'
 		s.ios.deployment_target = '8.0'
 		s.requires_arc = true
