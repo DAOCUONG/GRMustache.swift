@@ -1,6 +1,6 @@
 	Pod::Spec.new do |s|
 		s.name     = 'GRMustache'
-	    s.version  = '1.2'
+	    s.version  = '1.2.1'
 		s.license  = { :type => 'MIT', :file => 'LICENSE' }
 		s.summary  = 'Flexible and production-ready Mustache templates for MacOS Cocoa and iOS.'
 		s.homepage = 'https://github.com/groue/GRMustache'
