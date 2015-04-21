@@ -10,5 +10,6 @@
 		s.private_header_files = 'Mustache/**/*.h'
 		s.ios.deployment_target = '8.0'
 		s.requires_arc = true
+		s.framework = 'Foundation'
 	end
 
